@@ -11,7 +11,7 @@ we have two types of mindest
 
 there are so differnt and the figure belwo will show the differnt between these
 
-[different](https://www.screwtheninetofive.com/wp-content/uploads/2020/01/Blog-Jan-9_-Featured.png)
+![different](https://www.screwtheninetofive.com/wp-content/uploads/2020/01/Blog-Jan-9_-Featured.png)
 ## How i can Perseverance, gumption traps, and maintaining a growth mindset
 
 1.Challenges
